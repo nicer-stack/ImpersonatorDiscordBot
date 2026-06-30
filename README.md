@@ -1,5 +1,10 @@
 # Discord Trigger Webhook Bot
 
+Installation:
+Add it to your server by clicking [Here](https://discord.com/oauth2/authorize?client_id=1519985903089487952)
+
+
+
 A Serenity Discord bot written in Rust. Users can create text triggers, and when a later message contains a trigger, the bot relays the saved response through a webhook using the original trigger creator's display name and avatar.
 
 ## Features
