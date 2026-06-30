@@ -63,3 +63,4 @@ The webhook message is posted with the name and avatar of the user who created t
 - Webhooks cannot be created in DMs, so triggers only work in servers.
 - Discord webhooks allow overriding username and avatar per message, so the bot keeps one channel webhook and sends each trigger response with the saved creator identity.
 - If webhook creation fails, check that the bot has `Manage Webhooks` in the channel.
+- Large Language Models were used in the process of creating this.
